@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Dll reference", "Custom Dll reference\Custom Dll reference.csproj", "{DD1163B9-082E-4D12-A1F8-824C4B43047C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDll", "Test\TestDll.csproj", "{78BF5832-73C4-43DD-A675-78182DF7B11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1163B9-082E-4D12-A1F8-824C4B43047C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1163B9-082E-4D12-A1F8-824C4B43047C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1163B9-082E-4D12-A1F8-824C4B43047C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1163B9-082E-4D12-A1F8-824C4B43047C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BF5832-73C4-43DD-A675-78182DF7B11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BF5832-73C4-43DD-A675-78182DF7B11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BF5832-73C4-43DD-A675-78182DF7B11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BF5832-73C4-43DD-A675-78182DF7B11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AA9256-FD97-4F56-A69C-174BA22E6DE1}
+	EndGlobalSection
+EndGlobal
